@@ -13,8 +13,6 @@ Build an interactive Power BI dashboard to help the sales/marketing team answer:
 - When (month, day) do sales peak, and where (which cities)?
 - How do customers prefer to pay, and how satisfied are they?
 
-![Dashboard](dashboard-screenshot.png)
-
 ## Tools & Approach
 - **Data:** Mobile_Sales_Data.xlsx (sales, quantity, transactions, payment method, city, 
   brand, mobile model, ratings)
